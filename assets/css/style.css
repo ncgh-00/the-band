@@ -609,6 +609,10 @@ html {
         display: none;
     }
 
+    #slider .text-content {
+        display: none;
+    }
+
     #nav {
         display: block;
     }
